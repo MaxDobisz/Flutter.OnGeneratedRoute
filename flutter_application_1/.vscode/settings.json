@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave":{
+        "sorce.fixAll": true
+    },
+
+}
